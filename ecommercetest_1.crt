@@ -1,18 +1,3 @@
-Bag Attributes
-    Microsoft Local Key set: <No Values>
-    localKeyID: 01 00 00 00 
-    friendlyName: te-8cadeeba-54f3-40ec-bcdb-21efaa682de6
-    Microsoft CSP Name: Microsoft RSA SChannel Cryptographic Provider
-Key Attributes
-    X509v3 Key Usage: 10 
-
-Bag Attributes
-    localKeyID: 01 00 00 00 
-    friendlyName: ecommercetest.oca.com.uy
-subject=C = UY, ST = Montevideo, L = Montevideo, O = OCA SA, OU = OCA SA, CN = ecommercetest.oca.com.uy
-
-issuer=DC = com, DC = itaubank, DC = corp, DC = uy, DC = oca, CN = OCA-CA-Interna
-
 -----BEGIN CERTIFICATE-----
 MIIIkDCCBnigAwIBAgITOgAABZlh2bJ/fFaF2gAAAAAFmTANBgkqhkiG9w0BAQsF
 ADCBhzETMBEGCgmSJomT8ixkARkWA2NvbTEYMBYGCgmSJomT8ixkARkWCGl0YXVi
